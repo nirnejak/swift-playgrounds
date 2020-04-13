@@ -6,6 +6,7 @@ str
 str = "Hi there1"
 
 let pi = 3.14
+let name = "Jitendra"
 
 
 let favouriteDessert = "cake"
